@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "utf-8">
+	<title> Практическая работа №17 </title>
+	<link rel = "stylesheet" type="text/css" href = "main.css">
+</head>
+<body>
+	<div class="main_body">
+		<h2>Содержание<h2>
+	    <ol>
+		    <li><a href="bukashki.html">Такие разные букашки</a></li>
+			<li><a href="clops.html">Клопы - кто они?</a></li>
+			<li><a href="bron9.html">Бронированные жуки</a></li>
+			<li><a href="strecoz.html">Глазастые стрекозы</a></li>
+		</ol>
+	</div>
+	
+</body>
+</html>

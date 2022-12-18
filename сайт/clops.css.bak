@@ -1,0 +1,51 @@
+table{
+	width:45%;
+	padding:auto;
+	margin:auto;
+}
+.bold{
+	font-weight:bold;
+	font-size:16pt;
+}
+caption{
+	font-style:italic;
+}
+h2{
+	text-align:center;
+	border:1px solid green;
+	border-radius:25px;
+	padding: 7px;
+	background-color:#a5ec1b;
+	font-family:Arial;
+}
+p{
+	font-family:Arial;
+}
+#question{
+	border: 1px solid black;
+	border-radius:100px;
+	padding:3px;
+	color:white;
+	background-color:black;
+	font-weight:bold;
+}
+#back{
+	padding-top:70px;
+}
+a{
+	text-decoration:none;
+	border:1px solid black;
+	font-size:16pt;
+	padding:10px;
+}
+a:hover{
+	text-decoration:none;
+	border:1px solid black;
+	font-size:16pt;
+	padding:10px;
+	background-color:blue;
+	color:orange;
+}
+body{
+	background-color:;
+}
