@@ -1,0 +1,11 @@
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\bin\Debug\Холодов_лаба_14_2.exe.config
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\bin\Debug\Холодов_лаба_14_2.exe
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\bin\Debug\Холодов_лаба_14_2.pdb
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.csproj.AssemblyReference.cache
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.csproj.SuggestedBindingRedirects.cache
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.Form1.resources
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.Properties.Resources.resources
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.csproj.GenerateResource.cache
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.csproj.CoreCompileInputs.cache
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.exe
+D:\IWantToBeliave\Холодов_лаба_14_2\Холодов_лаба_14_2\obj\Debug\Холодов_лаба_14_2.pdb
