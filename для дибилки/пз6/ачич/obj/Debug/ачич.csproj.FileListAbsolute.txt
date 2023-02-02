@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\ачич\ачич\bin\Debug\ачич.exe.config
+C:\Users\Student\source\repos\ачич\ачич\bin\Debug\ачич.exe
+C:\Users\Student\source\repos\ачич\ачич\bin\Debug\ачич.pdb
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.Form1.resources
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.Properties.Resources.resources
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.exe
+C:\Users\Student\source\repos\ачич\ачич\obj\Debug\ачич.pdb
