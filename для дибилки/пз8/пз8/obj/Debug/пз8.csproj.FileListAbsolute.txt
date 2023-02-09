@@ -1,0 +1,9 @@
+C:\Users\Студент\Desktop\якушова\пз8\пз8\bin\Debug\пз8.exe.config
+C:\Users\Студент\Desktop\якушова\пз8\пз8\bin\Debug\пз8.exe
+C:\Users\Студент\Desktop\якушова\пз8\пз8\bin\Debug\пз8.pdb
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.Form1.resources
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.Properties.Resources.resources
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.exe
+C:\Users\Студент\Desktop\якушова\пз8\пз8\obj\Debug\пз8.pdb
