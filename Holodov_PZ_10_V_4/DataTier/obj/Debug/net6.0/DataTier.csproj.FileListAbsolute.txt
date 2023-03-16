@@ -1,0 +1,12 @@
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\bin\Debug\net6.0\DataTier.deps.json
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\bin\Debug\net6.0\DataTier.dll
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\bin\Debug\net6.0\DataTier.pdb
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.csproj.AssemblyReference.cache
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfoInputs.cache
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.AssemblyInfo.cs
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.dll
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\refint\DataTier.dll
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\DataTier.pdb
+C:\Users\Admin\ЛабыПрактосы\Holodov_PZ_10_V_4\DataTier\obj\Debug\net6.0\ref\DataTier.dll
