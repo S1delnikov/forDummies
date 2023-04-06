@@ -1,0 +1,12 @@
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\bin\Debug\PZ_9_2.exe.config
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\bin\Debug\PZ_9_2.exe
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\bin\Debug\PZ_9_2.pdb
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.csproj.AssemblyReference.cache
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.Form1.resources
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.Properties.Resources.resources
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.csproj.GenerateResource.cache
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.exe
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.pdb
+C:\Users\Admin\ЛабыПрактосы\PZ_9_2\PZ_9_2\obj\Debug\PZ_9_2.Form2.resources
